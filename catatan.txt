@@ -1,0 +1,5 @@
+Sistem operasi adalah perangkat lunak yang berfungsi sebagai penghubung antara pengguna dengan perangkat keras komputer. Sistem operasi mengatur berbagai sumber daya seperti CPU, memori, penyimpanan, dan perangkat input/output agar dapat digunakan oleh program dengan baik.
+
+Salah satu fungsi penting sistem operasi adalah mengatur proses atau program yang sedang berjalan. Sistem operasi menentukan pembagian waktu CPU untuk setiap proses sehingga beberapa program dapat berjalan secara bersamaan. Selain itu, sistem operasi juga mengatur penggunaan memori agar setiap proses mendapatkan ruang yang diperlukan.
+
+Sistem operasi juga menyediakan mekanisme keamanan dan pengelolaan file. Pengguna dapat membuat, mengubah, menghapus, serta mengatur akses terhadap file dan folder. Dengan adanya sistem operasi, pengguna tidak perlu berinteraksi langsung dengan perangkat keras untuk menjalankan berbagai aktivitas di komputer.
